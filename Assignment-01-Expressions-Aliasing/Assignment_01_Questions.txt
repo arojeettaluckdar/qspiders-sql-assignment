@@ -1,0 +1,24 @@
+Assignment 01 – SQL: Expressions & Aliasing
+
+Instructions:
+Write SQL queries for the following scenarios using expressions and aliasing where appropriate.
+
+1. WAQTD (Write a query to display) the name of the employee along with their annual salary.
+
+2. WAQTD the employee name (ename) and job title for all employees with their half-term salary.
+
+3. WAQTD all the details of the employees along with an annual bonus of 2000 added to their salary.
+
+4. WAQTD the name and salary of each employee with a 10% hike applied.
+
+5. WAQTD the name and salary of each employee after deducting 25% from their salary.
+
+6. WAQTD the name and salary of each employee with a monthly hike of 50 added.
+
+7. WAQTD the name and annual salary of each employee after a 10% deduction.
+
+8. WAQTD the total salary given to each employee (calculated as salary + commission).
+
+9. WAQTD all details of the employees along with their annual salary.
+
+10. WAQTD the name and designation of each employee along with a salary penalty of 100.
