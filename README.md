@@ -3,7 +3,7 @@
 This repository contains SQL assignments from QSpiders, covering a wide range of database topics including expressions, aliasing, salary computations, joins, subqueries, and more. New topics will be added as the course progresses.
 
 ## Assignments
-- **Assignment 1:** Expressions & Aliasing  
+- [Assignment 1: Expressions & Aliasing](./Assignment-01-Expressions-Aliasing/)  
 - **Assignment 2:** Joins (Coming soon)
 
 ## 🧠 Purpose
