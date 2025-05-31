@@ -1,0 +1,20 @@
+1. WAQTD details of the employees working as CLERK and earning less than 1500.
+2. WAQTD name and hire date of the employees working as MANAGER in DEPT 30.
+3. WAQTD details of the employees along with annual salary if they are working in DEPT 30 as SALESMAN and their annual salary is greater than 14000.
+4. WAQTD all the details of the employees working in DEPT 30 or as ANALYST.
+5. WAQTD names of the employees whose salary is less than 1100 and their designation is CLERK.
+6. WAQTD name, salary, annual salary, and department number if DEPTNO is 20, earning more than 1100 and annual salary exceeds 12000.
+7. WAQTD EMPNO and names of the employees working as MANAGER in DEPT 30.
+8. WAQTD details of the employees working in DEPT 20 OR 30.
+9. WAQTD to display the details of employees working as ANALYST in DEPT 10.
+10. WAQTD the details of employees working as PRESIDENT and earning a salary of 4000.
+11. WAQTD names, department number, and job of employees working as CLERK in DEPT 10 or DEPT 20.
+12. WAQTD the details of employees in DEPT 10 working either as CLERK or MANAGER.
+13. WAQTD the names of employees working in DEPT 10, 20, 30, or 40.
+14. WAQTD the details of the employees with EMPNO 7902 and 7839.
+15. WAQTD the names and job titles of employees working as MANAGER, CLERK, or SALESMAN.
+16. WAQTD the names of employees hired between 01-JAN-1981 and 31-DEC-1987.
+17. WAQTD the details of employees whose salary is between 1250 and 3000.
+18. WAQTD the names of employees hired after 01-JAN-1981 and working in DEPT 20 or 30.
+19. WAQTD names and annual salary of MANAGERs and CLERKs working in DEPT 10 or 30.
+20. WAQTD details of employees whose salary is between 1000 and 4000 and annual salary exceeds 15000.
