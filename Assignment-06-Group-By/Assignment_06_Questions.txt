@@ -1,0 +1,20 @@
+Assignment Questions on GROUP BY
+Write a query to display the number of employees working in each department except PRESIDENT.
+
+Write a query to find the total salary needed to pay all the employees in each job.
+
+Write a query to find the number of employees working as MANAGER in each department.
+
+Write a query to find the average salary of employees in each department, excluding the employees of DEPTNO 20.
+
+Write a query to find the number of employees having character 'A' in their names in each job.
+
+Write a query to find the number of employees and average salary of those whose salary is greater than 2000, grouped by department.
+
+Write a query to find the total salary and number of SALESMEN in each department.
+
+Write a query to find the number of employees with their maximum salaries in each job.
+
+Write a query to find the maximum salary given to an employee working in each department.
+
+Write a query to count the number of times each salary value appears in the EMPLOYEE table.
